@@ -1,0 +1,37 @@
+
+.divSign form{
+    background-color: #fafafa;
+    height: 350px;
+    width: 35%;
+    
+}
+
+.divSign form input{
+    width: 80%;
+    height: 32px;
+    margin-top: 16px;
+    margin-left: 10%;
+}
+
+.divSign button{
+    width: 80%;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 10%;
+    background-color:rgb(206, 206, 57) ;
+    border-radius: 8px;
+
+}
+
+ .divSign a{
+    text-decoration: none;
+    color: rgb(51, 144, 250) ;
+    margin-top: 80px;
+    margin-left: 70px;
+
+}
+
+p{
+    color: rgb(240, 135, 135); 
+    margin-left: 70px;
+}
